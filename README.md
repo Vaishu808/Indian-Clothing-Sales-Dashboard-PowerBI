@@ -1,4 +1,4 @@
-# Indian-Clothing-Brand-PowerBI
+# Indian-Clothing-Sales-Dashboard-PowerBI
 
 ##  Project Overview
 This project is an **interactive Power BI dashboard** created to analyze the sales performance of an **Indian clothing brand**.  
