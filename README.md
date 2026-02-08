@@ -1,6 +1,6 @@
 # Indian-Clothing-Brand-PowerBI
 
-## 📌 Project Overview
+##  Project Overview
 This project is an **interactive Power BI dashboard** created to analyze the sales performance of an **Indian clothing brand**.  
 The dashboard provides insights into revenue, profitability, customer behavior, product performance, and regional trends across multiple years.
 
@@ -8,7 +8,7 @@ It is designed to help business stakeholders make **data-driven decisions** rela
 
 ---
 
-## 📊 Key Business Metrics
+##  Key Business Metrics
 - **Total Sales Amount:** ₹3.82M  
 - **Profit Margin:** 30%  
 - **Average Order Value:** ₹6.36K  
@@ -18,7 +18,7 @@ It is designed to help business stakeholders make **data-driven decisions** rela
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 - **Year Filter:** Analyze data from 2021 to 2025  
 - **Store Type Filter:** Online vs Offline sales  
 - **Region Filter:** East, West, North, South  
@@ -33,7 +33,7 @@ It is designed to help business stakeholders make **data-driven decisions** rela
 
 ---
 
-## 🧾 Dataset Description
+##  Dataset Description
 The dataset represents transactional sales data for an Indian clothing brand and includes:
 
 ### Main Columns:
@@ -53,7 +53,7 @@ The dataset was cleaned and transformed using **Power Query**, and calculations 
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)**
 - **Power Query**
@@ -62,7 +62,7 @@ The dataset was cleaned and transformed using **Power Query**, and calculations 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 Indian-Clothing-Brand-PowerBI/
 │
@@ -72,7 +72,7 @@ Indian-Clothing-Brand-PowerBI/
 └── README.md
 ---
 
-## 🚀 How to Clone This Project
+##  How to Clone This Project
 To clone this repository to your local machine, run the following command:
 
 ```bash
